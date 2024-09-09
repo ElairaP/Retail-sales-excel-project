@@ -14,8 +14,9 @@ In this project I used excel to analyse and create visualisations on a dataset a
 - What is the distribution of prices within each category?
 
 ### Data analysis and Visualisation
-- I created pivot tables to identify any patterns within the dataset
-- Depending on the content in the pivot table I made various types of charts
+- I created pivot tables to identify any patterns within the dataset.
+- Depending on the content in the pivot table I made various types of charts.
+- I also added slicers for some of the charts.
 - For the pie charts I had to first extract the data from the pivot tables, calculate the proporions of the data and then convert them into a percentage.
-- I had to format the labels on the axes on some of the charts to make it clearer to the audience what the chart is showing
-- Finally, I created a dashboard in excel to present these findings
+- I had to format the labels on the axes on some of the charts to make it clearer to the audience what the chart is showing.
+- Finally, I created a dashboard in excel to present these findings.
