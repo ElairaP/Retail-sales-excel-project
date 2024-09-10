@@ -23,3 +23,5 @@ In this project I used excel to analyse and create visualisations on a dataset a
 
 ![Dashboard screenshot](https://github.com/ElairaP/Retail-sales-excel-project/blob/main/Dashboard%20screenshot%201.png)
 
+![Dashboard screenshot 2](https://github.com/ElairaP/Retail-sales-excel-project/blob/main/Dashboard%20screenshot%202.png)
+
