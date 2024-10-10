@@ -1,5 +1,5 @@
 # Project in Excel Analysing Retail Sales
-In this project I used excel to analyse and create visualisations on a dataset about the retail sales of a store. The dataset I used for this project was found on kaggle.
+In this project I used excel to analyse and create visualisations on a dataset about the retail sales of a store. The dataset I used for this project was found on kaggle, https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset, uploaded by Mohammad Talib
 
 ## Data Preparation
 - After loading the csv file into excel I used the remove duplicates feature in excel to check for and remove any identical data.
